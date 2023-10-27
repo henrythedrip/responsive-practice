@@ -89,10 +89,13 @@ font-size: larger;
 }
 
 .card ul {
-    width: 88%;
     text-align: left;
     margin-bottom: var(--border);
     line-height: 130%;
+}
+
+.bio-ul {
+    width: 50%;
 }
 
 .card img{
@@ -113,7 +116,7 @@ font-size: larger;
     flex-direction: column;
     justify-content: center;
     width: 30%;
-    margin-top: -190px;
+    height: fit-content;
 }
 
 .facts-container h3 {
