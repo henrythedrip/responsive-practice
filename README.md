@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a resume and portfolio website for Henry Thomas. 
+This is a website for my cat BMO.
 This was an assigment for the University of Utah Full Stack Development Coding Bootcamp. 
 The work was completed by Henry Thomas.
 
